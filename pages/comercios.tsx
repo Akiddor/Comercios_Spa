@@ -1,4 +1,4 @@
-import { ComerciosMenu } from "../../components/comercios-menu"
+import { ComerciosMenu } from "../components/comercios-menu"
 
 export default function ComerciosPage() {
   return (
